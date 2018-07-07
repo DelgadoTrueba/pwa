@@ -1,6 +1,6 @@
 {
     "name": "Delgado Trueba",
-    "short-name": "Delgado Trueba",
+    "short_name": "Delgado Trueba",
     "description": "Aplicaccion PWA hecha por Jose Manuel Delgado Trueba",
     "background_color": "#FFF",
     "theme_color": "#FB314E",
